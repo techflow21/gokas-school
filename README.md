@@ -1,3 +1,1 @@
 # gokas-school
-
-
